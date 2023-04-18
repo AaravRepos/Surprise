@@ -13,3 +13,5 @@ REMEMBER TO FORK IT UNDER YOUR NEW ORG!
 ##### **OrgName**.gtihub.io/**RepoName**.
 ### IF NOT, MAKE ONE YOURSELF
 IIt will take you to a rickroll!
+#### But how??!?
+Hmm, How? go to Github Docs and https://github.io to help you.
