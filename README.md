@@ -9,5 +9,7 @@ The name of your new org, will be the name, like this, **aaravsite**.github.io/s
 It will be the name of your site too, like this. 
 aaravsite.github.io/**surprise**
 REMEMBER TO FORK IT UNDER YOUR NEW ORG!
-#### Step 3, this vid shows the rest,
-https://github.com/AaravOrgenterprise/testingtherickroll/releases/download/rickroll/howto.webm
+#### Step 3, A github page should be automaticly made in this manner,
+##### **OrgName**.gtihub.io/**RepoName**.
+### IF NOT, MAKE ONE YOURSELF
+IIt will take you to a rickroll!
